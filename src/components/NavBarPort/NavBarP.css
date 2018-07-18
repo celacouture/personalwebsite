@@ -1,0 +1,14 @@
+.mynav{
+  background-color: #0d2534;
+}
+
+.link{
+  color:#fff;
+  font-size: 16pt;
+  text-decoration: none;
+}
+
+.link:hover{
+  color:#acb1b6;
+  text-decoration: none;
+}

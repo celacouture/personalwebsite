@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css?family=Petit+Formal+Script');
+
+.intro{
+  height:100%;
+  width:100%;
+  margin:auto;
+  background-image: url('/dawn-dusk-lake-163863.jpg');
+  display: table;
+  top:0;
+  background-size: cover;
+}
+
+.intro .namePlate{
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  width: 100%;
+  display: table-cell;
+  vertical-align: middle;
+  margin-top: 210px;
+}
+
+.myName{
+  font-size: 66px;
+  font-family: 'Petit Formal Script', cursive;
+}
+
+.btn{
+  padding-top: 10px;
+}

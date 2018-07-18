@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.mynav{
+  background-color: #0d2534;
+}
+
+.link{
+  color:#fff;
+  font-size: 16pt;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.link:hover{
+  color:#acb1b6;
+  text-decoration: none;
+}
+.linkHome{
+  color:#fff;
+  font-size: 20pt;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.linkHome:hover{
+  color:#acb1b6;
+  text-decoration: none;
+}
