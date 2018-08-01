@@ -4,7 +4,7 @@
   "homepage": "https://celacouture.github.io/personalwebsite",
   "private": true,
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+  "deploy": "gh-pages -b master -d build",
   "dependencies": {
     "bootstrap": "^4.1.2",
     "gh-pages": "^1.2.0",
