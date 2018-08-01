@@ -1,9 +1,13 @@
 {
   "name": "personalwebsite",
   "version": "0.1.0",
+  "homepage": "https://celacouture.github.io/personalwebsite",
   "private": true,
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "dependencies": {
     "bootstrap": "^4.1.2",
+    "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
